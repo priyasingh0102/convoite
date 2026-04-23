@@ -16,7 +16,7 @@ securely and log in using their credentials.
 ## How to Run
 
 ```bash
-$ git clone https://github.com/arushi0918/convoite
+$ git clone https://github.com/priyasingh0102/convoite
 $ cd convoite
 $ npm i
 $ npm run dev (for backend)
